@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Pipette</title>
+        <link>https://raw.githubusercontent.com/white-currant/Pipette/main/appcast.xml</link>
+        <description>Обновления Пипетки</description>
+        <language>ru</language>
+        <!-- Пункты релизов добавляются сюда скриптом Scripts/release.sh -->
+        <item>
+            <title>Версия 1.0</title>
+            <pubDate>Sat, 19 Sep 2026 13:42:53 +0000</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/white-currant/Pipette/releases/download/v1.0/Pipette-1.0.zip"
+                length="1866571"
+                type="application/octet-stream"
+                sparkle:edSignature="/E65KnoACGwGwzb19K7NNkouK/KrCUZAOKUsjE9J4k0h9TnVdIiIMonQZiHxKu+9+vHPmnAtSD/MKf0CeU6gDQ==" />
+        </item>
+    </channel>
+</rss>

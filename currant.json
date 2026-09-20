@@ -1,0 +1,22 @@
+{
+  "name": "Пипетка",
+  "tagline": "Цвет с любого места экрана — в HEX, RGB, CMYK и в Photoshop",
+  "description": [
+    "Небольшая плавающая пипетка для macOS: берёт цвет в любой точке экрана и показывает его в HEX, RGB, CMYK и HSB.",
+    "Одним кликом цвет уходит в Photoshop как основной. CMYK считает сам Photoshop — по вашему рабочему профилю, поэтому числа совпадают с тем, что вы увидите в программе."
+  ],
+  "features": [
+    "Живая лупа под курсором",
+    "HEX, RGB, CMYK и HSB",
+    "Отправка цвета в Photoshop одним кликом",
+    "Окно поверх всех остальных"
+  ],
+  "bundleID": "com.yulion.pipette",
+  "appFile": "Pipette.app",
+  "dmgAsset": "Pipette.dmg",
+  "category": "Графика и дизайн",
+  "minOS": "macOS 14",
+  "accent": "E5484D",
+  "icon": "currant/icon.png",
+  "screenshots": []
+}
